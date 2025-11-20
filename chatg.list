@@ -1,8 +1,0 @@
-host-keyword, openai, OpenAI
-host-suffix, openai.com, OpenAI
-host, chat.openai.com, OpenAI
-host, auth0.openai.com, OpenAI
-host, api.openai.com, OpenAI
-host, cdn.openai.com, OpenAI
-host, cdn.auth0.com, OpenAI
-host, openaiapi-site.azureedge.net, OpenAI
